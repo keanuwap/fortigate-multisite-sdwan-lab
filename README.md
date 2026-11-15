@@ -93,8 +93,8 @@ Sanitized configurations are in [`configs/`](configs/).
 | FGT1 and FGT2 reach each other on port2 | Ping replies | Pass |
 | PC1 receives DHCP lease | 10.1.1.x | Pass |
 | PC1 to gateway 10.1.1.1 | Ping replies | Pass |
-| PC1 to internet (8.8.8.8) | Ping replies via NAT | _fill in_ |
-| PC1 to Server1 (10.1.2.10) | Ping replies across sites | _fill in_ |
+| PC1 to internet (8.8.8.8) | Ping replies via NAT | Pass |
+| PC1 to Server1 (10.1.2.10) | Ping replies across sites | Pass |
 
 Evidence (screenshots, command output) is in [`docs/evidence/`](docs/evidence/).
 
