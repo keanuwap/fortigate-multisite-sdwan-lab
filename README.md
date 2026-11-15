@@ -1,4 +1,4 @@
-# fortigate-multisite-sdwan-lab
+
 # FortiGate Multi-Site Network Lab (EVE-NG)
 
 A two-site network built in EVE-NG with FortiGate firewalls, designed as the foundation for an IPsec and SD-WAN architecture. This repository documents the design, addressing, configuration, validation and lessons learned.
@@ -27,7 +27,7 @@ A two-site network built in EVE-NG with FortiGate firewalls, designed as the fou
 
 ## Topology
 
-![Topology](docs/topology.png)
+<img width="843" height="506" alt="image" src="https://github.com/user-attachments/assets/d1c15996-7889-42a9-ada7-905806b2c21e" />
 
 ```
    [Cloud0]                                        [Cloud0]
